@@ -1,6 +1,6 @@
 # Flashy FastAPI: Czech History (One Paragraph)
 
-Pink, neon-styled FastAPI single-page app that serves a one-paragraph overview of Czech history at the root endpoint.
+Pink, neon-styled FastAPI single-page app that serves a one-paragraph overview of Slovak history at the root endpoint.
 
 ## Quick start
 - Python 3.10+ recommended.
